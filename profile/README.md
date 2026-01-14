@@ -1,28 +1,27 @@
-Urban Equipe is an association that is committed to the democratization of urban development and design. Urban Equipe is organized as a non-profit association and as such is committed to its purpose in all its projects. To achieve its purpose, it initiates participatory projects, organizes knowledge exchange and carries out assignments in accordance with its purpose, with a focus on municipalities and civil society organizations in the field of urban development.
+### About Urban Equipe
 
-Urban Equipe is a [Decidim](https://github.com/decidim/decidim) partner since 2024.
+Urban Equipe is an association that is committed to the democratization of urban development and design. Based in Zürich Switzerland, we are organized as a non-profit association and as such we are committed to our purpose in all our projects. To achieve our purpose, we initiate participatory projects, organizes knowledge exchange and carry out assignments for organizations, with a focus on municipalities and civil society actors in the field of urban development.
 
-### About this GitHub organization
+Urban Equipe is an official [Decidim](https://github.com/decidim/decidim) partner.
+
+### What we do on Github
 
 This GitHub space is used by Urban Equipe to:
 
 - document and maintain digital tools used in participatory urban development processes
 - host customizations and extensions related to [Decidim](https://github.com/decidim/decidim)
 - share open-source code and resources from Urban Equipe projects
-- collaborate with municipalities, civil-society partners, and external developers
+- collaborate with municipalities, civil-society partners, and other accomplices
 
-If you are looking for more context about Urban Equipe, visit the website: `https://urbanequipe.org`
+If you are looking to learn more about us, visit: `https://www.urban-equipe.ch`
 
 ### Repository structure
 
-Typical repositories in this organization may include:
+Typical repositories in our organization include:
 
-- **Platform projects**: deployments, configurations and customizations of participation platforms (e.g. Decidim instances)
-- **Modules and plugins**: reusable components, integrations, or themes that can be shared with the broader community
 - **Tools and scripts**: utilities that support participatory processes (e.g. data preparation, exports, reporting)
 - **Documentation**: process documentation, guides, and templates for participatory urban development
 
-Not every repository will contain all of these elements, but most projects will follow these ideas and aim to be reusable by others.
 
 ### Contributing
 
@@ -38,9 +37,11 @@ Please respect the participatory values of Urban Equipe: transparency, inclusion
 
 Unless stated otherwise in a specific repository, code and documentation are intended to be published under open-source / open-content licenses. Always check the `LICENSE` file in each repository for the exact terms before using or reusing the material.
 
+### Other repositories we are working on:
+
 ### Contact
 
 For questions about this GitHub organization or specific projects, you can:
 
 - open an Issue in the relevant repository, or
-- reach Urban Equipe via the contact information on the website: `https://urbanequipe.org`
+- reach out to us via the contact information on our [website](https://www.urban-equipe.ch).
