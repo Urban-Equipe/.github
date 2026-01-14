@@ -39,8 +39,8 @@ Unless stated otherwise in a specific repository, code and documentation are int
 
 ### Other repositories we are working on:
 
-Decidim for the City of Zürich: https://github.com/puzzle/decidim-zuerich
-Decidim for the Cities of Lucerne & Winterthur: https://github.com/stadtluzern/decidim-ocl and https://github.com/orgs/decidim-swiss/projects/4
+– Decidim for the **City of Zürich**: https://github.com/puzzle/decidim-zuerich
+– Decidim for the **Cities of Lucerne & Winterthur**: https://github.com/stadtluzern/decidim-ocl and https://github.com/orgs/decidim-swiss/projects/4
 
 ### Contact
 
